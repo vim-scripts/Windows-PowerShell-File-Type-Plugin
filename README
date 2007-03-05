@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1816
+
+Sets up a few simple things like comment tokens and configures gvim File Browse dialog. Best used with the Windows PowerShell Syntax file and Filetype Plugin file (vimscript #1327 and vimscript #1815).
